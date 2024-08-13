@@ -2,7 +2,7 @@
 
 Bu layihə, `express-validator` kitabxanasını istifadə edərək Azərbaycan telefon nömrələrinin doğrulamasını təmin edən bir Express.js tətbiqidir. Bu, sadə bir halda yazılmış bir nümunədir.
 
-![Express Validator](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*W7bfSxWqT7Y2UOa_uxO7gA.png)
+![Express Validator](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcNriAo%2FbtrqJ7S933m%2FEKyJCKAkCtwt9kniGbRknk%2Fimg.png)
 
 ## Mündəricat 📚
 
